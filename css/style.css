@@ -1,9 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin|Patua+One&display=swap');
+
+
 * {
     margin: 0;
     padding: 0;
+}
+
+body {
     color: rgb(230, 230, 230);
     background-color: rgb(50, 53, 56);
-    /* font-family: 'Cabin', sans-serif; */
     font-family: 'Patua One', cursive;
 }
 
